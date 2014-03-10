@@ -15,5 +15,9 @@
     "example"
   ],
   "author": "gorkem gezici",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "logfmt": "^0.21.0",
+    "express": "^3.5.0"
+  }
 }
