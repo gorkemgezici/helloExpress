@@ -1,0 +1,15 @@
+{
+  "name": "helloExpress",
+  "version": "0.0.0",
+  "description": "hello world",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "first",
+    "example"
+  ],
+  "author": "gorkem gezici",
+  "license": "ISC"
+}
